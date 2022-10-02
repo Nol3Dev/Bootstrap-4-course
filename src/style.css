@@ -1,5 +1,5 @@
 .card-largura {
-    width: 18rem;
+    max-width: 18rem;
 }
 
 .imagem-carrossel-um {
@@ -18,7 +18,7 @@
 }
 
 .texto-cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
 
 .botão-cor-especial {
